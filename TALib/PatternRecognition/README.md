@@ -49,18 +49,18 @@
 ### CDLCLOSINGMARUBOZU
 * Proceed with the calculation for the requested range.
 * Must have:
-* - long white (black) real body
-* - no or very short upper (lower) shadow
+* 1. long white (black) real body
+* 2. no or very short upper (lower) shadow
 * The meaning of "long" and "very short" is specified with TA_SetCandleSettings;
 * outInteger is positive (1 to 100) when white (bullish), negative (-1 to -100) when black (bearish).
 
 ### CDLCONCEALBABYSWALL
 Proceed with the calculation for the requested range.
 * Must have:
-* - first candle: black marubozu (very short shadows)
-* - second candle: black marubozu (very short shadows)
-* - third candle: black candle that opens gapping down but has an upper shadow that extends into the prior body
-* - fourth candle: black candle that completely engulfs the third candle, including the shadows
+* 1. first candle: black marubozu (very short shadows)
+* 2. second candle: black marubozu (very short shadows)
+* 3. third candle: black candle that opens gapping down but has an upper shadow that extends into the prior body
+* 4. fourth candle: black candle that completely engulfs the third candle, including the shadows
 * The meanings of "very short shadow" are specified with TA_SetCandleSettings;
 * outInteger is positive (1 to 100): concealing baby swallow is always bullish;
 * the user should consider that concealing baby swallow is significant when it appears in downtrend, while this function does not consider it.
