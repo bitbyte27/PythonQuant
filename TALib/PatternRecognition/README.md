@@ -25,3 +25,11 @@
 * The meanings of "long body", "short shadow", "far" and "near" are specified with TA_SetCandleSettings;
 * outInteger is negative (-1 to -100): advance block is always bearish;
 * the user should consider that advance block is significant when it appears in uptrend, while this function does not consider it.
+
+### CDLBELTHOLD
+* Proceed with the calculation for the requested range.
+* Must have:
+* 1. long white (black) real body
+* 2. no or very short lower (upper) shadow
+* The meaning of "long" and "very short" is specified with TA_SetCandleSettings
+* outInteger is positive (1 to 100) when white (bullish), negative (-1 to -100) when black (bearish)
