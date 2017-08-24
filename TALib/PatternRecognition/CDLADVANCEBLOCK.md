@@ -14,8 +14,8 @@
 * the user should consider that advance block is significant when it appears in uptrend, while this function;
 * does not consider it.
 <br>
-中文名称：Advance Block 推进块（意译：大敌当前）
-形态判断：
-- 1.三根收盘价连续抬升的红色实心阳线；
-- 2.后一根阳线的开盘价在前一根阳线的实体里或接近实体，而非明显的跳空高开；
-- 3.第一根K线，没有上影线（光头阳）或者只有短短的上影线；
+中文名称：Advance Block 推进块（意译：大敌当前）<br>
+形态判断：<br>
+- 1.三根收盘价连续抬升的红色实心阳线；<br>
+- 2.后一根阳线的开盘价在前一根阳线的实体里或接近实体，而非明显的跳空高开；<br>
+- 3.第一根K线，没有上影线（光头阳）或者只有短短的上影线；<br>
