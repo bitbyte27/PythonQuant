@@ -45,3 +45,11 @@
 * The meaning of "long" is specified with TA_SetCandleSettings;
 * outInteger is positive (1 to 100) when bullish or negative (-1 to -100) when bearish;
 * the user should consider that breakaway is significant in a trend opposite to the last candle, while this function does not consider it.
+
+### CDLCLOSINGMARUBOZU
+* Proceed with the calculation for the requested range.
+* Must have:
+* - long white (black) real body
+* - no or very short upper (lower) shadow
+* The meaning of "long" and "very short" is specified with TA_SetCandleSettings;
+* outInteger is positive (1 to 100) when white (bullish), negative (-1 to -100) when black (bearish).
