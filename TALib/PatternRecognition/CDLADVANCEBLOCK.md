@@ -14,7 +14,7 @@
 * the user should consider that advance block is significant when it appears in uptrend, while this function;
 * does not consider it.
 <br>
-#### 中文名称：####
+#### 中文名称：
 Advance Block 推进块（意译：大敌当前）<br>
 #### 形态判断：
 * 1.三根收盘价连续抬升的红色实心阳线；<br>
