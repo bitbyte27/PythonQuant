@@ -1,4 +1,5 @@
 ## CDLADVANCEBLOCK
+* 函数翻译：灵峤（GitHub/QQ/Wechat：[bitbyte27](https://github.com/bitbyte27)）
 
 ## 指标概述
 中文名称：Advance Block 推进块（意译：大敌当前）。<br>
