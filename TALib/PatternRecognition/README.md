@@ -5,8 +5,8 @@
 |1|[CDLADVANCEBLOCK](CDLADVANCEBLOCK.md) |灵峤|0|灵峤|0| 
 |2|[CDLBELTHOLD](CDLBELTHOLD.md) |灵峤|0|灵峤|0| 
 |3|[CDLBREAKAWAY](CDLBREAKAWAY.md) |灵峤|0|灵峤|0| 
-|4|[CDLCLOSINGMARUBOZU](CDLCLOSINGMARUBOZU.md) |Roggggggi.|0|灵峤|0| 
-|5|[CDLCONCEALBABYSWALL](CDLCONCEALBABYSWALL.md) |Roggggggi.|0|灵峤|0| 
+|4|[CDLCLOSINGMARUBOZU](CDLCLOSINGMARUBOZU.md) |灵峤|0|灵峤|0| 
+|5|[CDLCONCEALBABYSWALL](CDLCONCEALBABYSWALL.md) |灵峤|0|灵峤|0| 
 |6|[CDLCOUNTERATTACK](CDLCOUNTERATTACK.md) |Roggggggi.|0|灵峤|0| 
 |7|[CDLDARKCLOUDCOVER](CDLDARKCLOUDCOVER.md) |Roggggggi.|0|灵峤|0| 
 |8|[CDLDOJI](CDLDOJI.md) |刘晶晶|0|灵峤|0| 
@@ -53,3 +53,14 @@
 * - no or very short upper (lower) shadow
 * The meaning of "long" and "very short" is specified with TA_SetCandleSettings;
 * outInteger is positive (1 to 100) when white (bullish), negative (-1 to -100) when black (bearish).
+
+### CDLCONCEALBABYSWALL
+Proceed with the calculation for the requested range.
+* Must have:
+* - first candle: black marubozu (very short shadows)
+* - second candle: black marubozu (very short shadows)
+* - third candle: black candle that opens gapping down but has an upper shadow that extends into the prior body
+* - fourth candle: black candle that completely engulfs the third candle, including the shadows
+* The meanings of "very short shadow" are specified with TA_SetCandleSettings;
+* outInteger is positive (1 to 100): concealing baby swallow is always bullish;
+* the user should consider that concealing baby swallow is significant when it appears in downtrend, while this function does not consider it.
