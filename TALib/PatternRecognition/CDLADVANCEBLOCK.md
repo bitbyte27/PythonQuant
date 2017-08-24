@@ -1,5 +1,7 @@
-# CDLADVANCEBLOCK
+## CDLADVANCEBLOCK
 
+## 指标概述
+### 英文原文
 * Proceed with the calculation for the requested range.
 * Must have:
 * - three white candlesticks with consecutively higher closes
@@ -11,3 +13,5 @@
 * outInteger is negative (-1 to -100): advance block is always bearish;
 * the user should consider that advance block is significant when it appears in uptrend, while this function;
 * does not consider it.
+<br>
+中文名称：Advance Block 大敌当前
