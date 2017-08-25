@@ -1,6 +1,6 @@
 ## TA-Lib
 ### TA-Lib翻译项目
-https://github.com/xingbuxing/TA-Lib-in-chinese/commits/master
+https://github.com/xingbuxing/TA-Lib-in-chinese
 ### All Supported Indicators and Functions
 http://mrjbq7.github.io/ta-lib/funcs.html
 #### 官网上只有函数的调用方法，没有函数的详细介绍。经过长时间查找，发现在ta-lib最初c语言代码的注释中，有函数介绍。
