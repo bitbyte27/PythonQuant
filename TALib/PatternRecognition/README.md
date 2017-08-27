@@ -68,8 +68,8 @@ Proceed with the calculation for the requested range.
 ### CDLCOUNTERATTACK
 * Proceed with the calculation for the requested range.
 * Must have:
-* - first candle: long black (white)
-* - second candle: long white (black) with close equal to the prior close
+* 1. first candle: long black (white)
+* 2. second candle: long white (black) with close equal to the prior close
 * The meaning of "equal" and "long" is specified with TA_SetCandleSettings;
 * outInteger is positive (1 to 100) when bullish or negative (-1 to -100) when bearish;
 * the user should consider that counterattack is significant in a trend, while this function does not consider it
