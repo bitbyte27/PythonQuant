@@ -73,3 +73,13 @@ Proceed with the calculation for the requested range.
 * The meaning of "equal" and "long" is specified with TA_SetCandleSettings;
 * outInteger is positive (1 to 100) when bullish or negative (-1 to -100) when bearish;
 * the user should consider that counterattack is significant in a trend, while this function does not consider it
+
+### CDLCOUNTERATTACK
+* Proceed with the calculation for the requested range.
+* Must have:
+* 1. first candle: long white candle
+* 2. second candle: black candle that opens above previous day high and closes within previous day real body; 
+* Greg Morris wants the close to be below the midpoint of the previous real body
+* The meaning of "long" is specified with TA_SetCandleSettings, the penetration of the first real body is specified with optInPenetration;
+* outInteger is negative (-1 to -100): dark cloud cover is always bearish;
+* the user should consider that a dark cloud cover is significant when it appears in an uptrend, while this function does not consider it.
