@@ -7,7 +7,7 @@
 |3|[CDLBREAKAWAY](CDLBREAKAWAY.md) |灵峤|0|灵峤|0| 
 |4|[CDLCLOSINGMARUBOZU](CDLCLOSINGMARUBOZU.md) |灵峤|0|灵峤|0| 
 |5|[CDLCONCEALBABYSWALL](CDLCONCEALBABYSWALL.md) |灵峤|0|灵峤|0| 
-|6|[CDLCOUNTERATTACK](CDLCOUNTERATTACK.md) |Roggggggi.|0|灵峤|0| 
+|6|[CDLCOUNTERATTACK](CDLCOUNTERATTACK.md) |灵峤|0|灵峤|0| 
 |7|[CDLDARKCLOUDCOVER](CDLDARKCLOUDCOVER.md) |Roggggggi.|0|灵峤|0| 
 |8|[CDLDOJI](CDLDOJI.md) |刘晶晶|0|灵峤|0| 
 <br>
@@ -64,3 +64,12 @@ Proceed with the calculation for the requested range.
 * The meanings of "very short shadow" are specified with TA_SetCandleSettings;
 * outInteger is positive (1 to 100): concealing baby swallow is always bullish;
 * the user should consider that concealing baby swallow is significant when it appears in downtrend, while this function does not consider it.
+
+### CDLCOUNTERATTACK
+* Proceed with the calculation for the requested range.
+* Must have:
+* - first candle: long black (white)
+* - second candle: long white (black) with close equal to the prior close
+* The meaning of "equal" and "long" is specified with TA_SetCandleSettings;
+* outInteger is positive (1 to 100) when bullish or negative (-1 to -100) when bearish;
+* the user should consider that counterattack is significant in a trend, while this function does not consider it
