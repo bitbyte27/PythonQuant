@@ -11,6 +11,6 @@ http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:aver
 http://mrjbq7.github.io/ta-lib/func_groups/volatility_indicators.html
 
 ### Pattern Recognition
-http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Second.html
-http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Forth.html
-[Pattern_Recognition_CDLBELTHOLD](http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_CDLBELTHOLD.html)
+http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Second.html <br>
+http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Forth.html <br>
+[Pattern_Recognition_CDLBELTHOLD](http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_CDLBELTHOLD.html) <br>
