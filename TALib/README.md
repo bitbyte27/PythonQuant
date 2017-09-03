@@ -13,3 +13,4 @@ http://mrjbq7.github.io/ta-lib/func_groups/volatility_indicators.html
 ### Pattern Recognition
 http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Second.html
 http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Forth.html
+[Pattern_Recognition_CDLBELTHOLD](http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_CDLBELTHOLD.html)
