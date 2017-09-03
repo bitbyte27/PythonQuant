@@ -9,3 +9,7 @@ https://sourceforge.net/p/ta-lib/code/HEAD/tree/trunk/ta-lib/c/src/ta_func/
 ### ATR的一些参考资料
 http://stockcharts.com/school/doku.php?id=chart_school:technical_indicators:average_true_range_atr<br>
 http://mrjbq7.github.io/ta-lib/func_groups/volatility_indicators.html
+
+### Pattern Recognition
+http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Second.html
+http://ooou6mjma.bkt.clouddn.com/Pattern_Recognition_Forth.html
