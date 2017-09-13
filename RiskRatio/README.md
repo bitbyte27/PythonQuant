@@ -4,3 +4,7 @@ http://ooou6mjma.bkt.clouddn.com/BOLL_ENE.html
 http://ooou6mjma.bkt.clouddn.com/Risk_Ratio.html<br>
 http://ooou6mjma.bkt.clouddn.com/Risk_Ratio_PLOT.html
 #### 下一步做回测，看看收益率如何，未完待续……
+<br>
+
+## Risk_Ratio_Functions函数、Profit_Functions函数以及回测
+http://ooou6mjma.bkt.clouddn.com/Risk_Ratio_Profit.html
