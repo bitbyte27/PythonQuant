@@ -5,7 +5,8 @@ http://ooou6mjma.bkt.clouddn.com/ZFXF_YCWW.html
 ### 虽然该指标并没有使用未来函数，但存在均线价格与当前/收盘价的比较而来确定指标值，
 ### 这本身就是一种回到过去做决策的错误！！
 ### 回测发现其十年收益率未2000多倍，太浮夸了！！
+<br>
 
 ## Profit_Functions函数
-### 将策略收益的算法集合成一个函数“Profit_Functions”，可方便用于各类MA策略、Risk策略等
+### 将策略收益的算法集合成一个函数“Profit_Functions”，可方便用于各类MA策略、Risk策略等。
 http://ooou6mjma.bkt.clouddn.com/ZFXF_YCWW_PF.html
