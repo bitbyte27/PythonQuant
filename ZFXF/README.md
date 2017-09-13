@@ -6,5 +6,6 @@ http://ooou6mjma.bkt.clouddn.com/ZFXF_YCWW.html
 ### 这本身就是一种回到过去做决策的错误！！
 ### 回测发现其十年收益率未2000多倍，太浮夸了！！
 
+## Profit_Functions函数
 ### 将策略收益的算法集合成一个函数“Profit_Functions”，可方便用于各类MA策略、Risk策略等
 http://ooou6mjma.bkt.clouddn.com/ZFXF_YCWW_PF.html
