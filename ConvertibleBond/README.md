@@ -3,7 +3,8 @@ http://ooou6mjma.bkt.clouddn.com/Convertible_Bond_First.html<br>
 http://ooou6mjma.bkt.clouddn.com/Convertible_Bond_Second.html
 ### 重复的代码太多，故将其整合成py，import调用，Convertible_Bond_Third用做测试
 http://ooou6mjma.bkt.clouddn.com/Convertible_Bond_Third.html
-* 2017.07.26开始了Convertible_Bond_Fourth，有100多个转债的数据清洗，还未做完，有空待续……<br>
+* 2017.07.26开始了Convertible_Bond_Fourth，有100多个转债的数据清洗，还未做完，有空待续……
+
 http://ooou6mjma.bkt.clouddn.com/Convertible_Bond_Fourth.html
 ### 学会设置一个Convertible_Bond_Functions函数，用For循环和“df.append()”合成表格，大大地压缩代码、节约时间。
 * 2017.09.14开始了Convertible_Bond_Fifth，有接近100个转债的数据清洗，还未做完，有空待续……
