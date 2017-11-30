@@ -13,3 +13,4 @@
 
 ![png](scikit-learn_algorithm_cheat-sheet.png)
 
+![png](Supervised_Workflow.png)
