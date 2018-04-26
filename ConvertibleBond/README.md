@@ -27,6 +27,7 @@ http://ooou6mjma.bkt.clouddn.com/CB_Transaction_Data_PLOT.html
 * CB_Transaction_Data_PLOT_F更新至2018.03.14：[2017.09.13_CB_Transaction_Data_PLOT_F（2018-03-14）](http://ooou6mjma.bkt.clouddn.com/2017.09.13_CB_Transaction_Data_PLOT_F%EF%BC%882018-03-14%EF%BC%89.html)
 * CB_Transaction_Data_PLOT_F更新至2018.04.02：[2017.09.13_CB_Transaction_Data_PLOT_F（2018-04-02）](http://ooou6mjma.bkt.clouddn.com/2017.09.13_CB_Transaction_Data_PLOT_F%EF%BC%882018-04-02%EF%BC%89.html)
 * CB_Transaction_Data_PLOT_F更新至2018.04.20：[2017.09.13_CB_Transaction_Data_PLOT_F（2018-04-20）](http://ooou6mjma.bkt.clouddn.com/2017.09.13_CB_Transaction_Data_PLOT_F%EF%BC%882018-04-20%EF%BC%89.html)
+* CB_Transaction_Data_PLOT_F更新至2018.04.24：[2017.09.13_CB_Transaction_Data_PLOT_F（2018-04-24）](http://ooou6mjma.bkt.clouddn.com/2017.09.13_CB_Transaction_Data_PLOT_F%EF%BC%882018-04-24%EF%BC%89.html)
 
 ### 新增一个可转债回售、强赎、纯债价值的统计方案
 * CB_Detail更新至2018.2.15：[2018.02.15_CB_Detail（2018-2-15）](http://ooou6mjma.bkt.clouddn.com/2018.02.15_CB_Detail%EF%BC%882018-2-15%EF%BC%89.html)
