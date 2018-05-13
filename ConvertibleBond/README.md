@@ -32,7 +32,7 @@ http://ooou6mjma.bkt.clouddn.com/CB_Transaction_Data_PLOT.html
 * CB_Transaction_Data_PLOT_F更新至2018.05.02：[2018.05.01_CB_Transaction_Data_PLOT_F（2018-05-02）](http://ooou6mjma.bkt.clouddn.com/2018.05.01_CB_Transaction_Data_PLOT_F%EF%BC%882018-05-01%EF%BC%89.html)
 > CB_Transaction_Data_PLOT_F为2018.05.05更新，将成本曲线图剥离，增加【到期利率】和【年化利率】指标。
 * [2018.05.01_CB_Transaction_Data_PLOT_F（2018-05-05）](http://ooou6mjma.bkt.clouddn.com/2018.05.01_CB_Transaction_Data_PLOT_F%EF%BC%882018-05-05%EF%BC%89.html)
-* [2018.05.01_CB_Transaction_Data_PLOT_F（2018-05-11）](http://ooou6mjma.bkt.clouddn.com/2018.05.01_CB_Transaction_Data_PLOT_F%EF%BC%882018-05-11%EF%BC%89.html)
+* [2018.05.01_CB_Transaction_Data_PLOT_F（2018-05-11）](http://ooou6mjma.bkt.clouddn.com/2018.05.01_CB_Transaction_Data_PLOT_F_2018-05-11.html)
 ### 新增一个可转债回售、强赎、纯债价值的统计方案
 * CB_Detail更新至2018.2.15：[2018.02.15_CB_Detail（2018-2-15）](http://ooou6mjma.bkt.clouddn.com/2018.02.15_CB_Detail%EF%BC%882018-2-15%EF%BC%89.html)
 * CB_Detail更新至2018.3.9：[2018.02.15_CB_Detail（2018-3-9）](http://ooou6mjma.bkt.clouddn.com/2018.02.15_CB_Detail%EF%BC%882018-3-9%EF%BC%89.html)
