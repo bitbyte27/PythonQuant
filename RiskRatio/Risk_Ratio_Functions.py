@@ -55,7 +55,7 @@ def Risk_Ratio(stock_data):
     MAPO_RSV.columns = ['close','MA1','MA2','P01','MA3','MA4','P02','MA5','MA6','P03','HIGH5','LOW5']
     # RSV赋值:(收盘价-5日内最低价的最低值)/(5日内最高价的最高值-5日内最低价的最低值)*100
     MAPO_RSV['RSV'] = (MAPO_RSV['close']-MAPO_RSV['LOW5'])/(MAPO_RSV['HIGH5']-MAPO_RSV['LOW5'])*100
-    # K赋值:RSemaV的3日指数移动平均
+    # K赋值:RSVema的3日指数移动平均
     # D赋值:K的3日指数移动平均
     K = MAPO_RSV['RSV'].ewm(span=3).mean()
     D = K.ewm(span=3).mean()
