@@ -6,7 +6,7 @@ http://ooou6mjma.bkt.clouddn.com/ZFXF_YCWW.html
 ### 这本身就是一种回到过去做决策的错误！！
 ### 回测发现其十年收益率未2000多倍，太浮夸了！！
 <br>
-> [神仙趋势，运筹帷幄，通达信公式](https://blog.csdn.net/bitezijie/article/details/50560998)
+* [神仙趋势，运筹帷幄，通达信公式](https://blog.csdn.net/bitezijie/article/details/50560998)
 <br>
 
 ## Profit_Functions函数
