@@ -2,6 +2,7 @@
 http://ooou6mjma.bkt.clouddn.com/sincos.html<br>
 http://ooou6mjma.bkt.clouddn.com/bra4.html
 * [一个正弦函数、余弦函数、坐标系的实例解析](https://blog.csdn.net/bitezijie/article/details/76231854)
+* [一个神奇的函数](https://blog.csdn.net/bitezijie/article/details/76496122)
 
 ## GitHub & BitBucket HTML Preview
 [Enter URL of the HTML file to preview](http://htmlpreview.github.io/)
