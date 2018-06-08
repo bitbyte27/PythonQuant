@@ -7,3 +7,6 @@ http://ooou6mjma.bkt.clouddn.com/bra4.html
 ## GitHub & BitBucket HTML Preview
 [Enter URL of the HTML file to preview](http://htmlpreview.github.io/)
 * [sincos.html](http://htmlpreview.github.io/?https://github.com/bitbyte27/PythonQuant/blob/master/Equation/sincos.html)
+
+## Python的设置
+* [Python背景色与语法高亮主题配置](https://blog.csdn.net/bitezijie/article/details/70135700)
