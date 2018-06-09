@@ -10,6 +10,10 @@
 
 ![](50ETF_zhongcang.png)
 
+* 50ETF份额与规模（2018-03-31）
+
+![](50ETF_guimo.png)
+
 * 50ETF持有人户数与结构（2017-12-31）
 
 ![](50ETF_chiyou.png)
