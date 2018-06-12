@@ -14,3 +14,4 @@
 * [2018.06.12_Simple_regression](ipynb/2018.06.12_Simple_regression.ipynb)
 * [2018.06.12_Simple_regression_300ETF_SZ](ipynb/2018.06.12_Simple_regression_300ETF_SZ.ipynb)
 * [2018.06.12_Requests](https://github.com/bitbyte27/PythonQuant/blob/master/Machine_Learning/ipynb/2018.06.12_Requests.ipynb)
+* [2018.06.12_300ETF_close_SVR](https://github.com/bitbyte27/PythonQuant/blob/master/Machine_Learning/ipynb/2018.06.12_300ETF_close_SVR.ipynb)
