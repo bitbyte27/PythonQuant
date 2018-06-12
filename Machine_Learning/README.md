@@ -9,6 +9,7 @@
 > [GitHub](https://github.com/acombs)
 
 <br>
+
 ## Python · 机器学习 · 量化投资
 * [2018.06.12_Simple_regression](ipynb/2018.06.12_Simple_regression.ipynb)
 * [2018.06.12_Simple_regression_300ETF_SZ](ipynb/2018.06.12_Simple_regression_300ETF_SZ.ipynb)
