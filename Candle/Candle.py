@@ -61,8 +61,8 @@ def Candle_plot(Stock_data, stadate, enddate):
     
     # 设置风险决策曲线
     ax2 = ax1.twinx()
-    plt.plot(Id, De, color ='orange', linewidth=2.0, alpha=1)
-    plt.plot(Id, JCQX, color ='blue', linewidth=2.0, alpha=1)
+    plt.plot(Id, De, color ='Orange', linewidth=2.0, alpha=1)
+    plt.plot(Id, JCQX, color ='Brown', linewidth=2.0, alpha=1)
     plt.xlim(0,k+1,1)
     plt.ylim(0,100,10)
     
