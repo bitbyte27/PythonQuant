@@ -44,7 +44,7 @@ def Candle_plot(Stock_data, stadate, enddate):
     De = Stock_data_Risk_Ratio['Decision'].values
     JCQX = Stock_data_Risk_Ratio['MAJCQX'].values
     Id = Stock_data_Risk_Ratio['id'].values
-    idx = np.arange(0, k, 1)
+    idx = np.arange(0, k, 3)
     date = Stock_data_Risk_Ratio_date.index[idx].date
     
     # 画图
@@ -56,15 +56,18 @@ def Candle_plot(Stock_data, stadate, enddate):
     plt.grid(linestyle=':', alpha=0.5)
     
     # 设置x轴
-    plt.xticks(Id-0.5, date)
+    plt.xticks(idx, date)
     plt.xticks(rotation=45)
     
     # 设置风险决策曲线
     ax2 = ax1.twinx()
     plt.plot(Id, De, color ='Orange', linewidth=2.0, alpha=1)
     plt.plot(Id, JCQX, color ='Brown', linewidth=2.0, alpha=1)
+    plt.axhline(y=20, color='cyan', linewidth=1.0, alpha=1.0)
+    plt.axhline(y=60, color='yellow', linewidth=1.0, alpha=1.0)
+    plt.axhline(y=70, color='gold', linewidth=1.0, alpha=1.0)
     plt.xlim(0,k+1,1)
-    plt.ylim(0,100,10)
+    plt.ylim(10,80,10)
     
     return plt.show()
 
