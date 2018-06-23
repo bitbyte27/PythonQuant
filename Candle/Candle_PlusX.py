@@ -100,6 +100,15 @@ def Candle_plot(Stock_data, stadate, enddate, trade_date, trade_price):
     
     sell2 = sell_point['YCWW'].values.round(3)
     ids2 = sell_point.index+1
+    
+    # 运筹帷幄指标预测值
+    idp = Stock_Risk_Ratio_ZFXF_YCWW.index[-1]
+    # Today's YCWW
+    ptd = Stock_Risk_Ratio_ZFXF_YCWW['YCWW'].tail(1).values.round(4)
+    ptd = float(ptd[0])
+    # Tomorrow's YCWW
+    ptmr = Stock_Risk_Ratio_ZFXF_YCWW['Tomorrow'].tail(1).values.round(4)
+    ptmr = float(ptmr[0])
         
     # 画图
     plt.figure(2,figsize=(14,6), dpi=80)
@@ -125,19 +134,31 @@ def Candle_plot(Stock_data, stadate, enddate, trade_date, trade_price):
     # 设置买卖信号点
     plt.scatter(idb, buy, color ='blue', s=50, alpha=1.0, zorder=2)
     plt.scatter(ids, sell, color ='brown', s=50, alpha=1.0, zorder=3)
+    
+    # 设置交易价格点
     plt.scatter(idt, tp, color ='black', s=80, alpha=1.0, zorder=4)
     plt.scatter(idt, tp, color ='yellow', s=30, alpha=1.0, zorder=5)
     
+    # 设置预测点
+    plt.scatter(idp+1, ptd, color ='black', s=80, alpha=1.0, zorder=6)
+    plt.scatter(idp+1, ptd, color ='cyan', s=30, alpha=1.0, zorder=7)
+    plt.scatter(idp+2, ptmr, color ='black', s=80, alpha=1.0, zorder=6)
+    plt.scatter(idp+2, ptmr, color ='Lime', s=30, alpha=1.0, zorder=7)
+    
     # 标注卖点的价格和标签样式
     for a,b in zip(ids,sell):
-        ax2.text(a, b*1.005, b, ha='center', va= 'center', bbox = dict(facecolor = "blue", alpha = 0.2))
+        ax2.text(a, b*1.01, b, ha='center', va= 'center', bbox = dict(facecolor = "blue", alpha = 0.2))
     
     # 标注买点的价格和标签样式
     for c,d in zip(idb,buy):
         ax2.text(c, d*0.995, d, ha='center', va= 'center', bbox = dict(facecolor = "magenta", alpha = 0.2))
         
     # 标注交易点的价格和标签样式
-    ax2.text(idt, tp*1.006, tp, ha='center', va= 'center', bbox = dict(facecolor = "yellow", alpha = 0.5))
+    ax2.text(idt, tp*1.01, tp, ha='center', va= 'center', bbox = dict(facecolor = "yellow", alpha = 0.5))
+    
+    # 标注预测值的价格和标签样式
+    ax2.text(idp+1, ptd*1.004, ptd, ha='center', va= 'center', bbox = dict(facecolor = "cyan", alpha = 0.2))
+    ax2.text(idp+2, ptmr*1.004, ptmr, ha='center', va= 'center', bbox = dict(facecolor = "Lime", alpha = 0.2))
     
     # 买卖点的连线
     for m,n,p,q in zip(idb,ids2,buy,sell2):
