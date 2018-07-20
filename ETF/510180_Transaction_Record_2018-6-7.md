@@ -14,3 +14,4 @@
 ![](3561974A-D048-4490-A456-D8F0C5E64946.jpeg)
 > 未考虑交易手续费
 ![](https://github.com/bitbyte27/PythonQuant/blob/master/Candle/20180623.png)
+* [2018.06.12_Candlestick_plus_2018-6-23](http://nbviewer.jupyter.org/github/bitbyte27/PythonQuant/blob/master/Candle/2018.06.12_Candlestick_plus_2018-6-23.ipynb)
