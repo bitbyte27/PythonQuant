@@ -13,3 +13,4 @@
 ## 510180交易收益率测算
 ![](3561974A-D048-4490-A456-D8F0C5E64946.jpeg)
 > 未考虑交易手续费
+![](https://github.com/bitbyte27/PythonQuant/blob/master/Candle/20180623.png)
