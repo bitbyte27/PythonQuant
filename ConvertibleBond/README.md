@@ -45,3 +45,4 @@ http://ooou6mjma.bkt.clouddn.com/CB_Transaction_Data_PLOT.html
 
 ### 新增一个可转债K线+风险曲线的方案，采用tushare的API
 * [2018.06.18_tushare_cb_candle_risk_ratio_2018-6-21](http://nbviewer.jupyter.org/github/bitbyte27/PythonQuant/blob/master/ConvertibleBond/2018.06.18_tushare_cb_candle_risk_ratio/2018.06.18_tushare_cb_candle_risk_ratio_2018-6-21.ipynb)【[html](http://ooou6mjma.bkt.clouddn.com/2018.06.18_tushare_cb_candle_risk_ratio_2018-6-21.html)】
+* [2018.06.18_tushare_cb_candle_risk_ratio_2018-7-20](https://github.com/bitbyte27/PythonQuant/tree/master/ConvertibleBond/2018.06.18_tushare_cb_candle_risk_ratio)
