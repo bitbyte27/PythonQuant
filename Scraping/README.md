@@ -4,7 +4,8 @@
 
 * [meizian_one_file](2018.08.01_meizian_one_file.ipynb) 
 * [meizian_all_file](2018.08.02_meizian_all_file.ipynb)
-* [meizian_all_file_save_jpg](2018.08.02_meizian_all_file_save_jpg.ipynb)
+* [meizian_all_file_save_jpg_8.5](2018.08.02_meizian_all_file_save_jpg_8.5.ipynb)
+* [meizian_all_file_save_jpg_8.9](2018.08.02_meizian_all_file_save_jpg_8.9.ipynb)
 
 #### urllib.urlretrieve(url, file)失效，下载到文件夹的图片均为0字节，换了另一种方法，image.save
 
