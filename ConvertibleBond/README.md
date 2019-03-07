@@ -41,6 +41,9 @@ http://ooou6mjma.bkt.clouddn.com/CB_Transaction_Data_PLOT.html
 * [2018.05.26_CB_Transaction_Data_PLOT_F_2018-07-27](http://nbviewer.jupyter.org/github/bitbyte27/PythonQuant/blob/master/ConvertibleBond/2018.05.26_CB_Transaction_Data_PLOT_F_2018-05-26/2018.05.26_CB_Transaction_Data_PLOT_F_2018-07-27.ipynb)
 * [2018.05.26_CB_Transaction_Data_PLOT_F_2018-8-11](http://nbviewer.jupyter.org/github/bitbyte27/PythonQuant/blob/master/ConvertibleBond/2018.05.26_CB_Transaction_Data_PLOT_F_2018-05-26/2018.05.26_CB_Transaction_Data_PLOT_F_2018-8-11.ipynb)
 
+### 2018.05.26版的方案
+* [2018.05.26_CB_Transaction_Data_PLOT_F](https://nbviewer.jupyter.org/github/bitbyte27/PythonQuant/tree/master/ConvertibleBond/2018.05.26_CB_Transaction_Data_PLOT_F_2018-05-26/)
+
 ### 新增一个可转债回售、强赎、纯债价值的统计方案
 * CB_Detail更新至2018.2.15：[2018.02.15_CB_Detail（2018-2-15）](http://ooou6mjma.bkt.clouddn.com/2018.02.15_CB_Detail%EF%BC%882018-2-15%EF%BC%89.html)
 * CB_Detail更新至2018.3.9：[2018.02.15_CB_Detail（2018-3-9）](http://ooou6mjma.bkt.clouddn.com/2018.02.15_CB_Detail%EF%BC%882018-3-9%EF%BC%89.html)
